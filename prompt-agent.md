@@ -10,7 +10,7 @@ organização de arquivos
 tratamento de erros
 
 validação de dados
-
+     
 instruções claras de execução
 
 exemplos de teste
